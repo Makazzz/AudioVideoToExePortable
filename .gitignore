@@ -1,0 +1,11 @@
+# Ignore App folder
+AudioVideoToExePortable/App/AudioVideoToExe/AudioVideo_To_Exe.exe
+
+# Ignore Data folder
+AudioVideoToExePortable/Data
+
+# Ignore Work folder
+Work
+
+# Ignore log
+pac_installer_log.ini
